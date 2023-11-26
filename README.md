@@ -7,8 +7,6 @@
 
 - 💻 I’m currently learning **Python** in SoftUni
 
-- 📫 How to reach me **ivonapashowa@gmail.com**
-
 - ⚡ Fun fact **I dance and play the guitar in a band**
 
 <h3 align="left">Connect with me:</h3>
