@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivonapashova" alt="ivonapashova" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 💻 I’m currently learning **Python** in SoftUni
 
 - 📫 How to reach me **ivonapashowa@gmail.com**
 
