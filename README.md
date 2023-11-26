@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Ivona👋</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivonapashova" alt="ivonapashova" /></a> </p>
-
 - 💻 I’m currently learning **Python** in SoftUni
 
 - ⚡ Fun fact **I dance and play the guitar in a band**
