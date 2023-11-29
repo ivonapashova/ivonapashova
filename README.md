@@ -1,5 +1,5 @@
-<h1 align="centre">Hi there, I'm Ivona👋</h1>
-<h3 align="centre">A passionate frontend developer from Bulgaria</h3>
+<h1 align="center">Hi there, I'm Ivona👋</h1>
+<h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
 - 💻 I’m currently learning **Python** in SoftUni
 
