@@ -3,7 +3,7 @@
 
 - 💻 I’m currently learning **Python** in SoftUni
 
-- 📓 I study in Sofia Profesional High School of Electronics
+- 📓 I study at Sofia Profesional High School of Electronics
 
 - 💜 Fun facts about me: **I dance at StudioHyphers,I play the guitar in a band and my favourite color is purple**
 
