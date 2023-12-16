@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Ivona👋</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-- 💻 I’m currently learning **Python** in SoftUni
+- 💻 I’m currently learning **Python** in SoftUni.
 
-- 📓 I study at **Sofia Profesional High School of Electronics**
+- 📓 I study at **Sofia Profesional High School of Electronics**.
 
-- 💜 Fun facts about me: I dance at **StudioHyphers** ,I play the **guitar** in a band and my favourite color is **purple**
+- 💜 Fun facts about me: I dance at **StudioHyphers** ,I play the **guitar** in a band and my favourite color is **purple**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
